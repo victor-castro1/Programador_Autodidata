@@ -10,6 +10,7 @@
 #                       - Caso contrário = False
 #               
 #                   Exemplos:.
+#
 #                       1 == 1 AND 1 == 1 
 #                       (true)     (true)
 #                           True // resultado
@@ -29,6 +30,7 @@
 #                       (true)     (false)
 #                           False // Resultado
 #
+#
 #                       2 ** 4 >= 4 ** 2 AND 7/2 == 3.5 AND  10 != -1
 #                           (true)          (true)         (true)
 #                                   True // Resultado
@@ -41,66 +43,49 @@
 #                       - Caso contrário = False
 #
 #                   Exemplos:.
+#
 #                       1 == 1 OR 2 == 2 
 #                       (true)    (true)
+#                           // True
+#
 #
 #                       2 == 1 OR 2 == 2
 #                       (false)   (true)
-#
-# 
-#
+#                           // True
 #
 #
+#                       2 == 2 or 1 == 2
+#                       (true)    (false)
+#                           // True
 #
 #
+#                       1/2 == 2/2 or 0 == 9
+#                         (false)     (false)
+#                             // False
 #
 #
-#
-#
-#
-#
-#
-#
+#                       1 == 1 OR 1 == 2 OR 1 == 3
+#                       (true)    (false)   (false) 
+#                               // True
 #
 #
 #
 #               c. Not (não)
 #                   - Inverte o resultado
 # 
+#                   - Exemplos:.
+#                       
+#                       not 1 == 1 
+#                       not (True) --> Inverte resultado de True
+#                        // False
+# 
+#                       not 1 == 2 
+#                       not (False) --> Inverte resultado de False
+#                        // True
 # 
 # 
 # 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-#       x. Diferença
+#       2. Diferença
 #           a. Operador Comparativo
 #                   - Análise -> entre dois variáveis 
 #                   - Ex:.
