@@ -19,7 +19,7 @@
 #                      
 #               - Elif (Se não, se)
 #                   - Testa -> nova condição
-#                       - Caso a condição anterior falhar
+#                       - Caso a condição anterior falhar (If)
 #
 #               - Else (Senão)
 #                   - Quando só resta essa condição por último
@@ -94,8 +94,53 @@
 #                   a = 10
 #                   b = 15
 #
-#                   if a == 10:
-#                       if b == 15:
+#                   if a == 10: // True 
+#                       if b == 15:  // True
 #                           print(a + b)
 #
-#                           // 25 (resultado)
+#                           // 25 -> (resultado)
+#
+#               | n°7 (if, elif, else) -> (Elif - True)
+#                   
+#                   territorio = "Brasil"
+#
+#                   if territorio == "EUA":
+#                       print ("Hello, USA")
+#
+#                   elif territorio == "Japao":
+#                       print ("Hello Japao")
+#
+#                   elif territorio == "China":
+#                       print ("Hello China")
+#
+#                   elif territorio == "Brasil"
+#                       print ("Hello Brasil")
+#
+#                   elif territorio == "Chile"
+#                       print ("Hello Chile")
+#
+#                   else:
+#                       print ("Hello World!")
+#
+#                       
+#                       // Hello Brasil -> Resultado
+#
+#
+#               | n°8 (if, elif, else) -> (Else - True)
+#                   
+#                   planeta = "Saturno"
+#
+#                   if planeta == "Mercurio":
+#                       print ("Hello Mercurio")
+#
+#                   elif planeta == "Urano":
+#                       print ("Hello Urano")
+#
+#                   elif planeta == "Neturno":
+#                       print ("Hello Neturno")
+#
+#                   else:
+#                       print ("Hello....?")
+#
+#                       // Hello....?
+#
