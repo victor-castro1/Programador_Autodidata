@@ -1,0 +1,25 @@
+# \\
+# .gitignore
+#       Intuito: dizer ao Git quais arquivos/pastas
+#       ele NÃO deve rastrear (não vão para o GitHub)
+# \\
+
+
+# Cache (gerado pelo Python) - (arquivos compilados)
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual Python
+venv/
+.venv
+env
+
+# Variaveis de ambiente
+.env
+
+# Configurações do VsCode
+.vscode/
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
