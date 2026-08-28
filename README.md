@@ -9,7 +9,7 @@ Aqui reuno:
 - exercícios, desafios e projetos;
 
 
-> Este repositório é um portfólio de aprendizado contínuo.
+> Este repositório é um portfólio, 
 > Os códigos mostram minha evolução como um todo
 
 ## Objetivos
@@ -26,7 +26,7 @@ Aqui reuno:
 | `capitulo-01/` | Anotações, exemplos e desafios do capítulo 1 |
 | `capitulo-02/` | Anotações, exemplos e desafios do capítulo 2 |
 | `capitulo-03/` | Anotações, exemplos e desafios do capítulo 3 |
-| `docs/` | Progresso, glossário.. |
+| `docs/` | Progresso, glossário... |
 | `projetos/` | Forma de consolidar todo o aprendizado |
 
 ## Progresso
